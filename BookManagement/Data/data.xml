@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>12</Id>
+    <Name>ASP .NET Core</Name>
+    <Authors>Griffiths</Authors>
+    <Publisher>O'Reilly Media</Publisher>
+    <Year>2021</Year>
+    <DataFile>Pro ASP NET Core 1.pdf</DataFile>
+  </Book>
+  <Book>
+    <Id>4</Id>
+    <Name>ASP.NET Core Video course</Name>
+    <Authors>Mark J. Price</Authors>
+    <Publisher>California</Publisher>
+    <Year>2020</Year>
+    <DataFile>Test.pdf</DataFile>
+  </Book>
+  <Book>
+    <Id>5</Id>
+    <Name>War and Peace</Name>
+    <Authors>Lev Tolstoy</Authors>
+    <Publisher>Washington</Publisher>
+    <Year>2015</Year>
+    <DataFile>Test.pdf</DataFile>
+  </Book>
+  <Book>
+    <Id>6</Id>
+    <Name>C# Programming </Name>
+    <Authors>Griffiths</Authors>
+    <Publisher>London</Publisher>
+    <Year>2023</Year>
+    <DataFile>Pro ASP.NET Core.pdf</DataFile>
+  </Book>
+  <Book>
+    <Id>7</Id>
+    <Name>Hạt giống tâm hồn</Name>
+    <Authors>Obama B1</Authors>
+    <Publisher>Washington1</Publisher>
+    <Year>2023</Year>
+    <DataFile>Test - Copy.pdf</DataFile>
+  </Book>
+  <Book>
+    <Id>9</Id>
+    <Name>C# Programming</Name>
+    <Authors>Griffiths</Authors>
+    <Publisher>Texas</Publisher>
+    <Year>2023</Year>
+  </Book>
+  <Book>
+    <Id>11</Id>
+    <Name>LINQ Book</Name>
+    <Authors>Charlie Calvert, Dinesh Kulkarni</Authors>
+    <Publisher>O'Reilly Media</Publisher>
+    <Year>2023</Year>
+    <DataFile>LINQ Book.pdf</DataFile>
+  </Book>
+</ArrayOfBook>
